@@ -1,0 +1,9 @@
+Pass: 
+- Mentions any of these: PHP, Laravel, Wordpress, CMS, Ionic, eCommerce
+- Describes self as "expert" 
+- Starts profile describing number of years of experience 
+
+Cool: 
+- Links to specific projects they have done (websites or github links) 
+- Mentions modern frameworks like Javascript, Typescript, React, Node.JS, NextJS, Angular, VueJS
+- Describes self as  "Engineer", "Developer" 

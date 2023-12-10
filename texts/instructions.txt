@@ -1,0 +1,18 @@
+We are iterating through each profile to see if there is a match. Go through each profile.  DO NOT click the "Hire" or "Open in external Window" or "More Options" links. 
+
+Look at the text and the skills described for a candidate. 
+
+If they DON'T meet the "cool" criterion or they have one of the "Pass" criterion, then do nothing, move to the next candidate. 
+
+IF they met "cool" and didn't have "pass" criteria, then: Click "Invite" button (it's labelled "invite <name> to job"), wait for the messaging modal to open. Remove any default message and send this message instead: 
+---
+{outreach_message} 
+---
+
+Then click the "Send Invitation button". 
+
+Then, press the "Escape" key to close the modal. DO NOT click the next profile image until after you have pressed the "ESCAPE" key to close the modal. 
+
+Ensure the profile modal is closed before continuing. 
+
+Then move to repeat on the next candidate. 
