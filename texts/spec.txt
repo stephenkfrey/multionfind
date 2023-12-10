@@ -1,9 +1,7 @@
 Cool: 
 - Links to specific projects they have done (websites or github links) 
 - Emphasizes Javascript, Typescript React, Node.JS, NextJS, Angular, VueJS
-- Describes self as  "Engineer" "Develoer" 
-- 
-
+- Describes self as  "Engineer" "Developer" 
 
 Pass: 
 - Mentions any of these: PHP, Laravel, Wordpress, CMS, Ionic, eCommerce
